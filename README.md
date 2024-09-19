@@ -1,4 +1,4 @@
-# Machine Learning Arts Fa24 by Leah Yu
+# Machine Learning to the Arts Fa24 by Leah Yu
 Coursework for [Intro to Machine Learning to the Arts IMA F24](https://github.com/ml5js/Intro-ML-Arts-IMA-F24) course with Professor Daniel Shiffman at NYU during Fall 2024.
 <br>
 <br>
