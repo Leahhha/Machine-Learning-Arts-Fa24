@@ -1,10 +1,10 @@
 # Machine-Learning-Arts-Fa24
-Class work for [Intro to Machine Learning to the Arts IMA F24](https://github.com/ml5js/Intro-ML-Arts-IMA-F24) course in Fall 2024
+Coursework for [Intro to Machine Learning to the Arts IMA F24](https://github.com/ml5js/Intro-ML-Arts-IMA-F24) course with Professor Daniel Shiffman at NYU during Fall 2024.
 <br>
 <br>
-## 1: 🎨 Fun Emojis
+## 1: 🤖 Image Classification
 
-### ⚙️ Image Classification
+### ⚙️ Pick an image and let the model identify it for you!
 
 This project demonstrates key techniques like utilizing pre-trained image classification models, loading images dynamically, and displaying classification results on a canvas to create an interactive and informative visual output. 🎨
 
